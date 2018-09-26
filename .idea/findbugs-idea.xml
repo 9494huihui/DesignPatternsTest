@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugs-IDEA">
+    <includeFilterFiles>
+      <filter file="$USER_HOME$/cdn/0.17/ops-portal/findbugs-include.xml" enabled="true" />
+    </includeFilterFiles>
+    <excludeFilterFiles>
+      <filter file="$USER_HOME$/cdn/0.17/ops-portal/findbugs-exclude.xml" enabled="true" />
+    </excludeFilterFiles>
+  </component>
+</project>
